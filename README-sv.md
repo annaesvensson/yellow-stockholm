@@ -12,10 +12,10 @@ Alla temafiler finns i `system/themes` mappen. Alla layoutfiler finns i `system/
 
 ## Installation
 
-[Ladda ner tillägg](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/stockholm.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
+[Ladda ner tillägg](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
 
 Detta tilläg använder [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson.
 
 ## Formgivare
 
-Datenstrom. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).

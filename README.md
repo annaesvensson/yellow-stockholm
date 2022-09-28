@@ -12,10 +12,10 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 ## Installation
 
-[Download extension](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/stockholm.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 This extension uses [OpenSans](https://fonts.google.com/specimen/Open+Sans) by Steve Matteson.
 
 ## Designer
 
-Datenstrom. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
