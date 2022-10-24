@@ -14,7 +14,7 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 [Download extension](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
-This extension uses [OpenSans](https://fonts.google.com/specimen/Open+Sans) by Steve Matteson.
+This extension includes [OpenSans](https://fonts.google.com/specimen/Open+Sans) by Steve Matteson.
 
 ## Designer
 

@@ -14,7 +14,7 @@ Alle Themendateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdate
 
 [Erweiterung herunterladen](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
-Diese Erweiterung benutzt [OpenSans](https://fonts.google.com/specimen/Open+Sans) von Steve Matteson.
+Diese Erweiterung enthält [OpenSans](https://fonts.google.com/specimen/Open+Sans) von Steve Matteson.
 
 ## Designer
 

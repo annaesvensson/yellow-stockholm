@@ -14,7 +14,7 @@ Alla temafiler finns i `system/themes` mappen. Alla layoutfiler finns i `system/
 
 [Ladda ner tillägg](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
 
-Detta tilläg använder [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson.
+Detta tilläg innehåller [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson.
 
 ## Formgivare
 
