@@ -10,8 +10,6 @@ Stockholm is a clean theme.
 
 All theme files are stored in your `system/themes` folder. All layout files are stored in your `system/layouts` folder. You can edit these files. Your changes will not be overwritten when the website is updated.
 
-## Settings
-
 The default theme is defined in file `system/extensions/yellow-system.ini`. A different theme can be defined in the [page settings](https://github.com/annaesvensson/yellow-core#settings-page) at the top of each page, for example `Theme: stockholm`.
 
 ## Installation
