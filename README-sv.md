@@ -12,11 +12,13 @@ Alla temafiler finns i `system/themes` mappen. Alla layoutfiler finns i `system/
 
 Standardtemat definieras i filen `system/extensions/yellow-system.ini`. Ett annat tema kan definieras i [sidinställningarna](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md#inställningar-page) högst upp på varje sida, till exempel `Theme: stockholm`. [Läs mer om teman](https://datenstrom.se/sv/yellow/help/how-to-customise-a-theme).
 
+## Tack
+
+Detta tilläg innehåller [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson.
+
 ## Installation
 
 [Ladda ner tillägg](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
-
-Detta tilläg innehåller [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson.
 
 ## Formgivare
 
