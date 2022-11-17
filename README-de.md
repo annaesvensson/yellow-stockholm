@@ -14,7 +14,7 @@ Das Standard-Theme wird in der Datei `system/extensions/yellow-system.ini` festg
 
 ## Danksagung
 
-Diese Erweiterung enthält [OpenSans](https://fonts.google.com/specimen/Open+Sans) von Steve Matteson. Danke für die schöne Schrift.
+Diese Erweiterung enthält [OpenSans](https://fonts.google.com/specimen/Open+Sans) von Steve Matteson. Danke für die schöne Schriftart.
 
 ## Installation
 
