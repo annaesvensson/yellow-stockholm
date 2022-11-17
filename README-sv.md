@@ -14,7 +14,7 @@ Standardtemat definieras i filen `system/extensions/yellow-system.ini`. Ett anna
 
 ## Tack
 
-Detta tilläg innehåller [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson.
+Detta tilläg innehåller [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson. Tack för det vackra typsnittet.
 
 ## Installation
 
