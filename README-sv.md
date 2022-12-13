@@ -6,6 +6,10 @@ Stockholm är ett rent tema.
 
 <p align="center"><img src="stockholm-screenshot.png?raw=true" alt="Skärmdump"></p>
 
+## Hur man installerar ett tillägg
+
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+
 ## Hur man anpassar ett tema
 
 Alla temafiler finns i `system/themes` mappen. Alla layoutfiler finns i `system/layouts` mappen. Du kan redigera dessa filer. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras.
@@ -15,10 +19,6 @@ Standardtemat definieras i filen `system/extensions/yellow-system.ini`. Ett anna
 ## Tack
 
 Detta tilläg innehåller [OpenSans](https://fonts.google.com/specimen/Open+Sans) av Steve Matteson. Tack för det vackra typsnittet.
-
-## Installation
-
-[Ladda ner tillägg](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Formgivare
 

@@ -6,6 +6,10 @@ Stockholm ist ein schlichtes Theme.
 
 <p align="center"><img src="stockholm-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
+## Wie man eine Erweiterung installiert
+
+[ZIP-Datei herunterladen](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+
 ## Wie man ein Theme anpasst
 
 Alle Themedateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdateien befinden sich im `system/layouts`-Verzeichnis. Du kannst diese Dateien bearbeiten. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
@@ -15,10 +19,6 @@ Das Standard-Theme wird in der Datei `system/extensions/yellow-system.ini` festg
 ## Danksagung
 
 Diese Erweiterung enthält [OpenSans](https://fonts.google.com/specimen/Open+Sans) von Steve Matteson. Danke für die schöne Schriftart.
-
-## Installation
-
-[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-stockholm/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Designer
 
