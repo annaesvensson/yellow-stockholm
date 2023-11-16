@@ -4,7 +4,7 @@
 
 Stockholm är ett rent tema.
 
-<p align="center"><img src="stockholm-screenshot.png?raw=true" alt="Skärmdump"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Skärmdump"></p>
 
 ## Hur man installerar ett tillägg
 
