@@ -18,7 +18,7 @@ The default theme is defined in file `system/extensions/yellow-system.ini`. A di
 
 ## Acknowledgements
 
-This extension includes [OpenSans](https://fonts.google.com/specimen/Open+Sans) by Steve Matteson. Thank you for the beautiful font.
+This extension includes Open Sans by Steve Matteson. Thank you for the beautiful font.
 
 ## Designer
 
