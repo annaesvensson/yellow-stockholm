@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Stockholm 0.9.2
+# Stockholm 0.9.3
 
 Stockholm ist ein schlichtes Theme.
 
