@@ -12,7 +12,7 @@ Stockholm är ett rent tema.
 
 ## Hur man anpassar ett tema
 
-Du kan anpassa utseendet på din webbplats med HTML och CSS. Alla HTML-filer finns i `system/layouts` mappen. Alla CSS-filer finns i `system/themes` mappen. Du kan ändra dessa filer som du vill och även lägga till dina egna CSS-klasser. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras. [Läs mer om teman](https://datenstrom.se/sv/yellow/help/how-to-customise-a-theme).
+Du kan anpassa utseendet på din webbplats med HTML och CSS. Alla HTML-filer finns i `system/layouts` mappen. Alla CSS-filer finns i `system/themes` mappen. Du kan ändra dessa filer som du vill och även lägga till dina egna filer. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras. [Läs mer om teman](https://datenstrom.se/sv/yellow/help/how-to-customise-a-theme).
 
 Standardtemat definieras i filen `system/extensions/yellow-system.ini`. Ett annat tema kan definieras i [sidinställningarna](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md#inställningar-page) högst upp på varje sida, till exempel `Theme: stockholm`. 
 
