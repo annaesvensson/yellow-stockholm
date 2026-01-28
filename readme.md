@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Stockholm 0.9.5
 
-Stockholm is a clean theme.
+Stockholm is a clean theme. Designed by Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -20,6 +18,4 @@ The default theme is defined in file `system/extensions/yellow-system.ini`. A di
 
 This extension includes Open Sans by Steve Matteson. Thank you for the beautiful font.
 
-## Designer
-
-Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

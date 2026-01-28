@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Stockholm 0.9.5
 
-Stockholm ist ein schlichtes Theme.
+Stockholm ist ein schlichtes Theme. Entworfen von Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Bildschirmfoto"></p>
 
@@ -20,6 +18,4 @@ Das Standard-Theme wird in der Datei `system/extensions/yellow-system.ini` festg
 
 Diese Erweiterung enthält Open Sans von Steve Matteson. Danke für die schöne Schriftart.
 
-## Designer
-
-Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).
