@@ -1,4 +1,4 @@
-# Stockholm 0.9.5
+# Stockholm 0.9.6
 
 Stockholm är ett rent tema. Designad av Anna Svensson.
 

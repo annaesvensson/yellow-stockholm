@@ -1,4 +1,4 @@
-# Stockholm 0.9.5
+# Stockholm 0.9.6
 
 Stockholm is a clean theme. Designed by Anna Svensson.
 
