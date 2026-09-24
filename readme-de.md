@@ -1,4 +1,4 @@
-# Stockholm 0.9.6
+# Stockholm 0.9.7
 
 Stockholm ist ein schlichtes Theme. Entworfen von Anna Svensson.
 
