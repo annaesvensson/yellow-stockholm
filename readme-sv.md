@@ -1,4 +1,4 @@
-# Stockholm 0.9.7
+# Stockholm 1.0.1
 
 Stockholm är ett rent tema. Designad av Anna Svensson.
 
